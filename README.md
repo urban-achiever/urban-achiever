@@ -1,6 +1,4 @@
-I work as an embedded software engineer, mainly coding in C.
 
-Currently learning Python and machine learning.
 
 
 
